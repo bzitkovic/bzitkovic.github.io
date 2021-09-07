@@ -3321,3 +3321,11 @@ body.is-touch .poptrox-popup .closer {
     padding-left: 0;
   }
 }
+
+.gallery {
+  padding-bottom: 20px;
+}
+
+.gallery a {
+  border: none;
+}
