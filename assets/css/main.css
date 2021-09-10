@@ -3161,7 +3161,7 @@ body.is-touch .poptrox-popup .closer {
   #header {
     background-attachment: scroll;
     background-position: top left, center center;
-    background-size: auto, cover;
+    background-size: 145%;
     left: auto;
     padding: 6em 4em;
     position: relative;
