@@ -3072,7 +3072,6 @@ body.is-touch .image.thumb:after {
 
 body.is-touch #header {
   background-attachment: scroll;
-  background-size: auto, cover;
 }
 
 body.is-touch .poptrox-popup .nav-next,
@@ -3085,6 +3084,9 @@ body.is-touch .poptrox-popup .closer {
 
 @media screen and (max-width: 1800px) {
   /* Basic */
+  #header {
+    background-size: 400%;
+  }
 
   body,
   input,
@@ -3102,6 +3104,7 @@ body.is-touch .poptrox-popup .closer {
   #header {
     padding: 6em 3em 3em 3em;
     width: 30%;
+    background-size: 400%;
   }
 
   #header h1 {
