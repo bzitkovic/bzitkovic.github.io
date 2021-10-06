@@ -3331,6 +3331,10 @@ body.is-touch .poptrox-popup .closer {
   padding-bottom: 20px;
 }
 
+.gallery img {
+  padding-right: 60px;
+}
+
 .gallery a {
   border: none;
 }
